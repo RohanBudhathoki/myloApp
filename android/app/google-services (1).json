@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492726240648",
+    "project_id": "myloapp-92f91",
+    "storage_bucket": "myloapp-92f91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492726240648:android:73536fc8bce79705bae63d",
+        "android_client_info": {
+          "package_name": "com.example.myloapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492726240648-uebqsgt85v7onu7qup261faool3u537a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzxCfLmhjPNxVc1lqXUKrzTbRhv-M-yHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492726240648-uebqsgt85v7onu7qup261faool3u537a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
